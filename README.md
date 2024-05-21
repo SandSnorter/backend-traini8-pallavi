@@ -6,7 +6,7 @@
 3. [Installation](#installation)
 4. [Configuration](#configuration)
 5. [Running the Server](#running-the-server)
-6. [Using the Moderation API](#using-the-moderation-api)
+6. [Using the API](#using-the-moderation-api)
 7. [Expected Results](#expected-results)
 
 ## Introduction
