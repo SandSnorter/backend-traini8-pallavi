@@ -23,7 +23,7 @@ To run this server, you will need:
 Follow these steps to install the required dependencies:
 1. Clone the Repository:
      ```bash
-    npm install
+    [git clone](https://github.com/SandSnorter/backend-traini8-pallavi.git)
     ```
 2. Install Dependencies:
     ```bash
