@@ -1,7 +1,5 @@
 # Buyogo Backend Assignment 
 
-This README document provides instructions for setting up and running the server application that utilizes the OpenAI API to moderate content. The server is built using Node.js and Express and requires several environment configurations to operate correctly.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
