@@ -22,6 +22,8 @@ To run this server, you will need:
 ## Installation
 Follow these steps to install the required dependencies:
 1. Clone the Repository:
+     ```bash
+    npm install
     ```
 2. Install Dependencies:
     ```bash
