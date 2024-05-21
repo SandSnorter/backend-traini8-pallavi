@@ -8,7 +8,6 @@
 5. [Running the Server](#running-the-server)
 6. [Using the Moderation API](#using-the-moderation-api)
 7. [Expected Results](#expected-results)
-8. [Troubleshooting](#troubleshooting)
 
 ## Introduction
 This repository contains the codebase for the Traini8 MVP registry for Govt-funded Training Centers. The project is aimed at creating APIs to create and retrieve training center information, with a focus on functionality, performance, validation, and good coding practices.
